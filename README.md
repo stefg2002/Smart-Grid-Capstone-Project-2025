@@ -9,3 +9,5 @@ A prototype Smart Grid system with an Arduino microcontroller for reading and tr
 * Electrical data is collected via external sensors that are also connected to the Arduino in which their readings are converted into digital data for processing
 * Arduino runs specific ESP commands starting with 'AT+' for setup and data transfer
   * Example: AT+CIPSTART="TCP","<SERVER_IP>","<PORT>" starts a TCP server with the specified IP address and port number
+
+!(assets/arduino.png)
