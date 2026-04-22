@@ -10,4 +10,4 @@ A prototype Smart Grid system with an Arduino microcontroller for reading and tr
 * Arduino runs specific ESP commands starting with 'AT+' for setup and data transfer
   * Example: AT+CIPSTART="TCP","<SERVER_IP>","<PORT>" starts a TCP server with the specified IP address and port number
 
-!(assets/arduino.png)
+![Diagram of Arduino+ESP-01S connection](assets/arduino.png)
